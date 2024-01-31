@@ -1,251 +1,251 @@
 window.alert("A-1: Welcome to Our Website");
 
-document.write("A-2: Error! Please Enter a valid password");
+console.log("A-2: Error! Please Enter a valid password");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("A-3: Hint : Use line break");
+console.log("A-3: Hint : Use line break");
 
 window.alert("A-4: Error! Please Enter a valid password");
 
 window.alert("Hint : Use line break");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("<br>");
+console.log("<br>");
 
 
 var fullname = ("A-7: Username");
-document.write(fullname);
+console.log(fullname);
 
-document.write("<br>");
+console.log("<br>");
 
 var myName = ("A-8: Waqas Azeem");
-document.write(myName);
+console.log(myName);
 
 var FullName = ("A-9: Message :" + " " + " Hello! World");
 window.alert(FullName);
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("<br>");
+console.log("<br>");
 
 var Fullname = ("A-10: Name : Waqas Azeem");
 window.alert(Fullname);
-document.write(Fullname);
+console.log(Fullname);
 
-document.write("<br>");
+console.log("<br>");
 
 var Fathername = ("Father's Name : M.Amin");
 window.alert(Fathername);
-document.write(Fathername);
+console.log(Fathername);
 
-document.write("<br>");
+console.log("<br>");
 
 var Qualification = ("Qualification : Bachelor in Commerce");
 window.alert(Qualification);
-document.write(Qualification);
+console.log(Qualification);
 
-document.write("<br>");
+console.log("<br>");
 
 var Email = ("A-11: email : waqaze@gmail.com");
 window.alert(Email);
-document.write(Email);
+console.log(Email);
 
-document.write("<br>");
+console.log("<br>");
 
 window.alert("A-12: Hint: use string concatenation");
 
 var Myname = ("A-13: ▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬");
 window.alert(Myname);
-document.write(Myname);
+console.log(Myname);
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("<br>");
+console.log("<br>");
 
 var age = ("A-14: 36 yrs");
 window.alert(age);
 
 var Visitedthispage = ("A-15: You have visited this site 999999999999 times");
-document.write(Visitedthispage);
+console.log(Visitedthispage);
 
-document.write("<br>");
+console.log("<br>");
 
 var birthyear = ("A-16: 1986");
-document.write(birthyear);
+console.log(birthyear);
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("<br>");
+console.log("<br>");
 
 var visitorname = ("A-17, 18: Visitor's Name : Syed Afaq Ahmed    /   Product Title : Couture    /    Quantity : 2 Pcs");
-document.write(visitorname);
+console.log(visitorname);
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("John Doe ordered 5 T-shirts on XYZ Clothing store");
+console.log("John Doe ordered 5 T-shirts on XYZ Clothing store");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("A-20: a) “Rules for naming JS variables”");
+console.log("A-20: a) “Rules for naming JS variables”");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("b) Variable names can only contain ______, ______, ______ and ______. For example $my_1stVariable");
+console.log("b) Variable names can only contain ______, ______, ______ and ______. For example $my_1stVariable");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("c) Variables must begin with a ______, ______ or _____. For example $name, _name or name");
+console.log("c) Variables must begin with a ______, ______ or _____. For example $name, _name or name");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("d) Variable names are case _________");
+console.log("d) Variable names are case _________");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("e) Variable names should not be JS _________");
+console.log("e) Variable names should not be JS _________");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("A-21:");
+console.log("A-21:");
 
-document.write("<br>");
+console.log("<br>");
 
 var num1 = (5);
 var num2 = (2);
-document.write(num1 + num2);
+console.log(num1 + num2);
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("A-22:");
+console.log("A-22:");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write(num1 - num2);
+console.log(num1 - num2);
 
-document.write("<br>");
+console.log("<br>");
 
-document.write(num1 * num2);
+console.log(num1 * num2);
 
-document.write("<br>");
+console.log("<br>");
 
-document.write(num1 / num2);
+console.log(num1 / num2);
 
-document.write("<br>");
+console.log("<br>");
 
-document.write(num1 % num2);
+console.log(num1 % num2);
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("A-23:");
+console.log("A-23:");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("a)Declare a variable");
+console.log("a)Declare a variable");
 var num1 = (1);
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("b)Value after variable declaration is: 1");
+console.log("b)Value after variable declaration is: 1");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("c)Initialize the variable with some number");
+console.log("c)Initialize the variable with some number");
 var num2 = (5);
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("d)Initial Value: 5");
+console.log("d)Initial Value: 5");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("e)Increment the variable");
+console.log("e)Increment the variable");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("f)Value after increment:");
+console.log("f)Value after increment:");
 
-document.write("<br>");
-document.write(num1 + num2);
+console.log("<br>");
+console.log(num1 + num2);
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("g)Add 7 to the variable");
+console.log("g)Add 7 to the variable");
 var num3 = (7);
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("h)Value after addition:");
+console.log("h)Value after addition:");
 
-document.write("<br>");
-document.write(num1 + num2 + num3);
+console.log("<br>");
+console.log(num1 + num2 + num3);
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("i)Decrement the variable");
+console.log("i)Decrement the variable");
 var num4 = (1);
 
-document.write("<br>");
-document.write("j)Value after decrement:");
+console.log("<br>");
+console.log("j)Value after decrement:");
 
-document.write("<br>");
-document.write(num1 + num2 + num3 - num4);
+console.log("<br>");
+console.log(num1 + num2 + num3 - num4);
 
-document.write("<br>");
-document.write("k)dividing the variable's value by 3:");
+console.log("<br>");
+console.log("k)dividing the variable's value by 3:");
 var num5 = (12);
 
-document.write("<br>");
-document.write(num5 / num3);
+console.log("<br>");
+console.log(num5 / num3);
 
-document.write("<br>");
-document.write("l)Output : The remainder is");
+console.log("<br>");
+console.log("l)Output : The remainder is");
 
-document.write("<br>");
-document.write(0);
+console.log("<br>");
+console.log(0);
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("A-24:");
+console.log("A-24:");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("Cost of a movie TKT is 600 PKR:");
+console.log("Cost of a movie TKT is 600 PKR:");
 var num1 = (600);
 
-document.write("<br>");
-document.write("Cost of 5 movie TKTs in PKR is");
+console.log("<br>");
+console.log("Cost of 5 movie TKTs in PKR is");
 var num2 = (5);
 
-document.write("<br>");
-document.write(num1 * num2);
+console.log("<br>");
+console.log(num1 * num2);
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("<br>");
+console.log("<br>");
 
-document.write("A-25:");
+console.log("A-25:");
 
-document.write("<br>");
-document.write("<br>");
+console.log("<br>");
+console.log("<br>");
 
-document.write("Table of 2");
+console.log("Table of 2");
 
-document.write("<br>");
-document.write("<br>");
+console.log("<br>");
+console.log("<br>");
 
 var num1 = (2);
 var num2 = (1);
@@ -258,47 +258,47 @@ var num8 = (7);
 var num9 = (8);
 var num10 = (9);
 var num11 = (10);
-document.write("2x1=");
-document.write(num1 * num2);
+console.log("2x1=");
+console.log(num1 * num2);
 
-document.write("<br>");
-document.write("2x2=");
-document.write(num1 * num3);
+console.log("<br>");
+console.log("2x2=");
+console.log(num1 * num3);
 
-document.write("<br>");
-document.write("2x3=");
-document.write(num1 * num4);
+console.log("<br>");
+console.log("2x3=");
+console.log(num1 * num4);
 
-document.write("<br>");
-document.write("2x4=");
-document.write(num1 * num5);
+console.log("<br>");
+console.log("2x4=");
+console.log(num1 * num5);
 
-document.write("<br>");
-document.write("2x5=");
-document.write(num1 * num6);
+console.log("<br>");
+console.log("2x5=");
+console.log(num1 * num6);
 
-document.write("<br>");
-document.write("2x6=");
-document.write(num1 * num7);
+console.log("<br>");
+console.log("2x6=");
+console.log(num1 * num7);
 
-document.write("<br>");
-document.write("2x7=");
-document.write(num1 * num8);
+console.log("<br>");
+console.log("2x7=");
+console.log(num1 * num8);
 
-document.write("<br>");
-document.write("2x8=");
-document.write(num1 * num9);
+console.log("<br>");
+console.log("2x8=");
+console.log(num1 * num9);
 
-document.write("<br>");
-document.write("2x9=");
-document.write(num1 * num10);
+console.log("<br>");
+console.log("2x9=");
+console.log(num1 * num10);
 
-document.write("<br>");
-document.write("2x10=");
-document.write(num1 * num11);
+console.log("<br>");
+console.log("2x10=");
+console.log(num1 * num11);
 
-document.write("<br>");
-document.write("<br>");
+console.log("<br>");
+console.log("<br>");
 
 var Myname = ("▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬");
-document.write(Myname);
+console.log(Myname);
